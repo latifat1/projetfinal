@@ -153,6 +153,10 @@ a{
   border: 1px solid red;
   height: 700px;
   width: 100%;
+  background-image: url('../icones/Groupe-45.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
 }
 
 .boxb img{
