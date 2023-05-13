@@ -162,7 +162,10 @@ a{
   position: relative;
 
 }
-
+.boxb1{
+  top: 10%;
+  left: 5%;
+}
   
 
 
@@ -1446,21 +1449,37 @@ span{
   padding-top: 1rem;
   
 }
+
 .nav-link1{
-  color: #77798C;
-   
+  color: #77798C; 
+}
+.nav-link1:hover{
+  color: #1320DC;
+  
 }
 .nav-link2{
   color: #77798C;
   padding-left: 0.5rem;
 }
+.nav-link2:hover{
+  color: #1320DC;
+  
+}
 .nav-link3{
   color: #77798C;
   padding-left: 0.5rem;
 }
+.nav-link3:hover{
+  color: #1320DC;
+  
+}
 .nav-link4{
   color: #77798C;
   padding-left: 0.5rem;
+}
+.nav-link4:hover{
+  color: #1320DC;
+  
 }
 .boxG{
   border: 1px solid red;
@@ -1481,8 +1500,6 @@ span{
   background-position-y: -1rem;
   background-repeat: no-repeat;
   border-radius: 0.5em;
-  background-color:;
-  filter:;
 }
 p{
   margin-left: 60rem;
